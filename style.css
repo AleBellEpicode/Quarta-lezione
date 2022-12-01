@@ -1,0 +1,78 @@
+/* IMPOSTAZIONI GENERALI */
+div {
+  margin-top: 20px;
+}
+html {
+  background-image: url("../img/sfondo.png");
+}
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+}
+img {
+    width: 300px;
+}
+header {
+  margin: auto;
+  padding: auto;
+  margin-top: 10px;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    9deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 99, 121, 0.6836484593837535) 100%,
+    rgba(38, 150, 157, 0.8993347338935574) 100%
+  );
+  text-align: center;
+  width: 350px;
+  height: 200px;
+  box-shadow: 10px 10px 5px 0px rgba(141, 139, 139, 0.75);
+}
+nav {
+  height: 50px;
+}
+/* Main */
+main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 350px;
+  margin-top: 10px;
+  background-color: white;
+  box-shadow: 5px 9px 5px 0px rgba(222, 219, 219, 0.75);
+}
+iframe {
+  max-width: 350px;
+  border-radius: 15px 50px 30px;
+}
+h1 {
+  font-weight: 600;
+  color: white;
+}
+a {
+  color: white;
+}
+h2 {
+  font-weight: 600;
+  font-size: 40px;
+}
+li > a {
+  color: aqua;
+}
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
+footer {
+  margin-top: 10px;
+  background: rgb(137, 132, 230);
+  background: linear-gradient(
+    9deg,
+    rgb(53, 47, 150) 0%,
+    rgba(101, 111, 113, 0.684) 100%,
+    rgba(78, 180, 187, 0.899) 100%
+}
